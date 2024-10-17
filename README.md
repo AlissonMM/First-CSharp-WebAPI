@@ -59,8 +59,7 @@ Este controlador oferece dois endpoints simples: um para retornar a data e a hor
     }
     ```
 
-## Como executar o projeto
+- ## Notas
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/First-CSharp-WebAPI.git
+- Este é um projeto simples, criado para aprender a como construir APIs e desenvolver os primeiros endpoints utilizando ASP.NET. O objetivo principal é entender os conceitos básicos de controle de rotas, manipulação de requisições HTTP e como estruturar uma API em C#.
+- O caminho do arquivo no `ArquivoController` foi definido de forma absoluta para fins de simplicidade e desenvolvimento local. Em ambientes de produção, é recomendável utilizar caminhos relativos ou armazenar arquivos de forma adequada em diretórios como `wwwroot`.
